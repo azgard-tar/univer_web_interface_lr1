@@ -1,0 +1,16 @@
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\bin\Debug\net7.0\LR1_test.exe
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\bin\Debug\net7.0\LR1_test.deps.json
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\bin\Debug\net7.0\LR1_test.runtimeconfig.json
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\bin\Debug\net7.0\LR1_test.dll
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\bin\Debug\net7.0\LR1_test.pdb
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\obj\Debug\net7.0\LR1_test.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\obj\Debug\net7.0\LR1_test.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\obj\Debug\net7.0\LR1_test.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\obj\Debug\net7.0\LR1_test.AssemblyInfo.cs
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\obj\Debug\net7.0\LR1_test.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\obj\Debug\net7.0\LR1_test.dll
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\obj\Debug\net7.0\refint\LR1_test.dll
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\obj\Debug\net7.0\LR1_test.pdb
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\obj\Debug\net7.0\LR1_test.genruntimeconfig.cache
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\obj\Debug\net7.0\ref\LR1_test.dll
+\\Mac\Home\Documents\Univer\Web\LR1\test\LR1_test\bin\Debug\net7.0\lorem.txt
